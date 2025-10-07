@@ -1,0 +1,62 @@
+Name,No,Depth_min,Depth_max,T_min,T_max,P_min ,P_max,CO2_min,CO2_max,Densities,Leakage,Leakage pathways,Basin Type,CO2 source,CO2 held for,Size (Tcf),Trapping mechanism,Fault bound/sealed?,Reservoir,Reservoir thickness (Gross),Reservoir Thickness Net,Seal,Seal thickness,Stacked resevoirs,No. of stacked reservoirs,Literature,Well log & pressure ,Offshore
+Jackson Dome,1,4660,NA,150,NA,NA,NA,70,90,654.6,No,,,Mixed,,11,Structural and salt structures,NA,Carbonates; Sandstones,,,Mudstones,,NA,,"Stevens et al., 2001; Stuart&Kosik, 1977; Rice et al, 1997; Schenk & Viger",,No
+El Trapial Field,10,1234,NA,56,NA,64,NA,74.24,NA,141.0,No,,,NA,,,"Dome, Structural",NA,Sandstone,,,,,NA,,"Blann et al., 1997; Crotti et al, 2007; Orchuela et al., 2003",,No
+Messokampos,13,NA,500,25,NA,0.5,NA,99.5,NA,0.9,Yes,Rock discontinouities,,Carbonates/minor magmatic,,,Stratigraphic,NA,Sands ,260,,Clay,10s,NA,,"Gaus et al, 2004; TNO poster",,No
+Budafa Field,24,3200,3400,164,NA,295,NA,81,NA,451.6,No,,,"Carbonates, Magmatic",,,,NA,Sandstone,100,,?,,Yes,,"Doleschall et al., 1992, Gacho-Muro, 2005 Kiraly et al, 2014, Clayton et al, 1990",,No
+DF1-1 Field,41,1280,1450,70,NA,NA,NA,51,71,378.3,No,,,Thermogenic,,,Mudstone Diapir,NA,Sandstones,,,Mudstones,,Yes,3,"Huang et al., 2003, 2004; Zhu et al, 2009, Zhenfeng, 2008",,Yes
+LD28-1 Field,42,1655,NA,69.545,79.475,NA,NA,88.1,NA,562.1,No,,,Thermogenic,,,Mudstone Diapir,NA,Sandstones,,,Mudstones,,NA,,"Huang et al., 2003",,Yes
+LD15-1 Field,43,1428,1873,60.692,89.285,NA,NA,63,85,555.5,No,,,Thermogenic,,,Mudstone Diapir,NA,Sandstones,,,Mudstones,,NA,,"Huang et al., 2003",,Yes
+New Plymouth Area,49,375,560,32.36,32.92,NA,NA,50,77,79.0,Inconclusive,,,Mixed,,,,NA,Sandstones,,,Claystone/Siltstone,,Yes,,"Hulston et al., 2001; Lyon, 1996; Leitner et al., 2000",x,Yes
+Moxa arch,3,3600,4900,97,126,450,500,66,90,798.7,No,,,Inorganic sulphate reduction,50 Ma,240,Anticline,No,Limestone; Dolomite,350,,Evaporites; Shales,>200,Yes,2,"Becker & Lynds (2012); Kaszuba et al., 2011; Allis et al., 2001",,No
+McElmo Dome,7,2300,2450,57.5,103.5,240,NA,98.2,NA,789.2,No,,,Mantle,,17,Anticline,No,"Dolomite, Limestone",90,21,Salt,,No,,"Allis et al. (2001), Gerling (1983)",,No
+Quebrache Field ,11,900,1100,56,NA,58,106,60,92,122.7,No,,,Organic matter,,,Stratigraphic ,No,Sandstone & Carbonates,90,,Mudstones; Anhydrite,400,No,,"Gachuz-Muro et al., 2011; Gachuz-Muro et al, 2007",,No
+Vorderrhön,15,465,995,20,35,45,70,97,99.5,116.9,No,,,Magmatic *,,,Structural,No,"Sandstone, Siltstone, Limestone & Anhydrite",300,,Anhydrite & claystones,200-300,No,,"Pearce et al., 2002 & 2004",,No
+Benevento Field,17,2715,NA,100.4,NA,271,NA,NA,98.85,621.2,No,,,Deep Crust,,,Antiform,No,Carbonate,1432,,"Evaporite, Carbonates",>600,No,,"Roberts, 2012; well log",x,No
+Monte Taburno Reservoir,18,2600,NA,142.1,NA,345,NA,90,NA,571.3,Inconclusive,,,Deep Crust,,,Antiform,No,Carbonates,280,,Thrust deposits,>300,No,,"Roberts, 2012; well log",x,No
+Muscillo Reservoir,19,694,NA,55.5,NA,63,NA,97,NA,138.4,No,,,Deep Crust,,,,No,Carbonates,100,,Mudstone,300,No,,"Roberts, 2012; Well log",x,No
+Acerno Reservoir,20,4262,NA,81,NA,618,NA,97,NA,919.3,No,,,Deep Crust,,,Horst (structural),No,Carbonates,192,,,,No,,"Roberts, 2012; well log",x,No
+Ping Fang Wang Field,30,1450,1490,70,NA,NA,NA,68,79,470.5,No,,,Mantle,,,Dome Anticline,No,Dolomite,100,,Mudstone,100s(?),No,,"Anping et al., 2009; Dai et al, 2000; Gong et al., 2003",,No
+Nong'ancun Field,39,2755,3620,130,165,NA,NA,84,NA,506.4,No,,,Mantle,,,Structural/stratigraphic (intrusion bound) ,No,"Volcanics, conglomerates",300,,Mudstones,500,NA,,"Dai et al., 2005; Dai et al., 2000",,No
+Natuna D-Alpha Block,44,3000,NA,NA,NA,410,NA,72,NA,845.4,No,,,NA,,,Structural stratigraphic ,No,Limestone,1500,,Shale/Clay,3000,No,,"Bell et al., 1987",,Yes
+Caroline,46,2791,3017,86,NA,256,NA ,98.6,99.1,665.5,No,,,Mantle,5ka,,Structural (4 way closure) ,No,Sandstones ,80,,Shale and Siltstones,~200,No,,"LeBlanc et al (1967), Watson 2012, Chivas et al, 1987",,No
+Kapuni Field,48,3400,3600,102,118,455,NA,39,47,786.6,No,,,NA,,,,No,Sandstones,,,,,NA,,"Hulston et al., 2001; Webster et al, 2011; King et al., 2009",,No
+Battle Creek,54,1574,1716,55,NA,165,NA,NA,82.6,694.2,No,,,magmatic,50,,"structural, stratigraphic",no,Carbonates,180,21,Halite,200,no,0,"Lane. 1987, Ryerson et al., 2013, Lake & Whittaker, 2006",,
+Prudhoe Bay 01-13,55,2804,2835,90,NA,NA,NA,NA,42.9,672.7,No,,,,,,,no,Sandstone,,,Mudstone,,,,"Kharaka & Carothers, 1982, USGS Report",,
+Khairpur,57,618,658,32,NA,75.8,NA,70,NA,464.0,No,,,,,,Dome,no,Carbonate,73,,Shale,,no,0,"Tainsh et al, 1959",,
+Yemahnuang,58,1716,1900,94,NA,NA,NA,91,NA,417.9,No,,,crustal,,,,No,Sandstone,200,,Shale,300,no,0,"Imbus et al., 1999",,x
+St. Johns Dome,2,400,800,30,49,61.7,NA,90,NA,182.3,Yes,Faults,,Magmatic,<1 Ma,16,"Anticline, faulted",Yes,Siltstones; Carbonates,200,,Anhydrite; Mudstones,~300,Yes,>5,"Moore et al. (2005), Rauzi (1999), Gilfillan et al. (2011)",x,No
+Sheep Mountain,4,1000,1400,52,58,101,137,97,NA,369.8,No,,,Mantle,,15 (or 2.5?),Anticlinal fold with thrust fault,Yes,Sandstone,150,NA,Marine sediments (mudstones?); Laccolith,,NA,NA,"Holloway et al., 2007; Lynch et al., 1985; Allis et al., 2001; Renfro, 1979",,No
+Farnham Dome,5,900,NA,41,NA,70,NA,98.9,NA,194.7,Yes,Faults(?),,Mantle*,,,"anticline, faulted",Yes,Sandstone,100,12,Shale & Limestone,>100,No,,"Allis et al. (2001), Morgan and Chidsey (1991); Allis et al., 2005; Well log; Kampman et al, 2012",,No
+Gordon Creek  White Rim,6,3900,NA ,88,NA,290,NA,98.8,NA,700.3,No,,,Mantle*,,1.4,"Anticline, Graben",Yes,"Sandstone, Limestone",200,50,Shale,,Yes,NA,"Chidsey and Chamberlain (1996), Allis et al . (2001)",x,No
+Bravo Dome,8,600,820,41,NA,80,NA,99,NA,269.8,No,,,Mantle,,30,"Stratigraphic, Structural",Yes,Sandstones; Mudstones,120,30,Evaporites; Mudstones,,No,NA,"Allis et al.(2001), Pearce (1996), Broadhead, 1987; Dubacq et al, 2012; Johnson, 1984",,No
+JM- Brown Bassett Field,9,2800,NA,100,NA,274,NA,NA,57,627.3,No,,,Magmatic,,,Structural ,Yes,Dolomite,,NA,Shale ,,NA,,"Ballentine et al., 2001; Gilfillan et al., 2009 sup. Info; Schoell et atl., 2001",,No
+Montmiral,12,2400,NA,100,NA,360,NA,97,99,723.7,Inconclusive,Faults and fractures,,Mantle/deep crust*,,,Stratigraphic,Yes,Sandstone & Limestone,80,,Claystone and Marlstone,500,Yes,,"Gaus et al, 2004, Pearce et al., 2004",,No
+Fizzy Field,14,2300,NA,80,85,209,NA,50,NA,615.7,No,,,Carbonates,,,Fault bound ,Yes,Sandstone,100,,"Shale, Evaporites",400,No,,"Wilkinson et al. (2009), Underhill et al. (2009), Yielding et al. (2011)",x,Yes
+Latera caldera,16,1000,NA,200,NA,NA,NA,NA,98,119.3,Yes,Faults & Fractures,,Carbonates*,,,Structural high,Yes,Limestones,,,Flysch and Volcanics,,NA,,"Annunziatellis et al., 2008",,No
+Pieve Santo Stefano,21,3600,3850,117.2,NA,620,NA,92.2,NA,830.4,Yes,Faults,,Deep Crust,,,Structural/straticgraphic ,Yes,"Dolomites, Evaporites",240,,Evaporites (?),>300,No,,"Roberts, 2012; well log, Bonini 2009, Trippetta et al., 2013",x,No
+Frigento Field,22,1163,NA,123,NA,117,NA,99.7,NA,199.7,Yes,Faults,,Deep Crust,,,Antiform,Yes,Carbonates,427,,Mudstones,150,No,,"Roberts, 2012; well log",,No
+Wiehengebirgsvorland,23,2700,NA,115,NA,NA,NA,NA,91,550.9,No,,,Organic Matter & Carbonates,,,Structural (Horsts),Yes,Carbonate,65,,Anhydrite,,NA,,"Fischer et al., 2006",,No
+Mihalyi-Repcelak,25,1460,1600,83,90,NA,NA,90,NA,381.4,No,,,Mantle*,,,Stratigraphic,Yes,"Conglomerates, Sandstones",250,,Claystones,300,Yes,,"Pearce et al., 2002 & 2004",,No
+Zaizhuangzi field,26,1600,2500,77,NA,NA,NA,NA,99,480.0,No,,,Mixed,,,Structural (fault bound),Yes,"Biolithite, dolomite",50,,Mudstone,200,No,,"Zhang et al., 2008, Dai et al. 2000",,No
+Youaicun Field,27,2044,2410,93,NA,NA,NA,88,NA,519.1,No,,,Mantle +?*,,,Structural,Yes,Carbonate,,,"Mudstone, Siltstone ",,No,,"Anping et al., 2009; Dai et al. 2000",,No
+Dazhongwang WG1,28,2442,2535,100,NA,NA,NA,95.09,NA,569.9,No,,,Mantle +?*,,,Anticline with fault,Yes,"Dolomitic limestone, sandstone",20,,Mudstone,100,No,,"Dai et al., 2000; Zhang et al., 2008; Anping et al., 2009",,No
+Gaoquing Field,29,811,834,45,NA,NA,NA,94,NA,237.8,No,,,Mantle*,,,Fault bound stratigraphic,Yes,"Sandstone, siltstone",10,,Mudstone,?,Yes,3,"Dai et al., 2005, Dai et al., 2000; Gong et al., 2003",,No
+Yang 25 Field,31,2793,2805,110,NA,NA,NA,96.5,NA,585.2,No,,,Mantle,,,Structural lithological,Yes,Sandstone,50,,"Shale, Mudstone, basalt",>800,No,,"Anping et al., 2009, Dai et al., 2000; Gong et al., 2003",,No
+Balipo Field,32,2600,2700,98.2,101.4,NA,NA,97,NA,605.6,No,,,Mantle*,,,Structural & lithological,Yes,Limestone ,360,,"Impermeable Conglomerates, Mudstone",150,NA,,"Anping et al., 2009, Dai et al., 2000",,No
+Pingnan,33,1980,2250,85,NA,NA,NA,74,97,549.0,No,,,Mantle,,,Structural (fault),Yes,Limestone,110,,Mudstone,100,No,,"Anping et al., 2009, Dai et al., 2000, Gong et al., 2003",,No
+Hua 17 Field,34,1960,2010,90,NA,NA,NA,90,NA,513.7,No,,,Magmatic,,,Structural (fault),Yes,Sandstone,25,,Mudstone,100,No,,"Anping et al., 2009; Dai et al., 2000; Gong et al., 2003",,No
+Huangquiao Field,35,1700,NA,57.5,66,160,260,93,NA,661.0,No,,,Mantle,,,Faulted Anticline ,Yes,Carbonates; Sandstones,200,,Gypsum-bearing clay rocks,800,Yes,4,"Dai et al., 2005",,No
+Huanchang 3-4 Field,36,3350,NA,100,NA,NA,NA,97.2,NA,693.5,No,,,Mantle,,,Structural (fault),Yes,Sandstone,,,Mudstones (lacustrine),100-500,No,,"Li et al., 2008",,No
+Wanjinta Field,37,774,1072,45,55,NA,NA,90,NA,214.3,No,,,Mantle,,,Fault closed anticline ,Yes,"Sandstone, siltstone",50,,Shale,100,Yes,5,"Dai et al., 2005; Dai et al., 2000",,No
+Qian'an,38,2063,2185,100,105,NA,NA,80,NA,488.0,No,,,Mantle,,,Fault bound,Yes,"Siltstone, sandstone",30?,,Shale,150,NA,,"Dai et al., 2000",,No
+Changling Field,40,3300,NA,160,NA,NA,NA,90,NA,498.1,No,,,Mantle/magmatic,,,Fault bound anticline,Yes,Volcanics,,,Mudstones,,No,,"Guang et al., 2011",,No
+Ladbroke Grove Field,45,2474,NA,105,NA,249,NA,NA,57,565.1,No,,,Mantle*,,,Structural (fault),Yes,Sandstones,,,Shale,,No,,"Watson et al., 2004; Parker, 1992; http://er-info.dpi.vic.gov.au/petroleum/well/ladbrokegrove3.htm, Watson, 2012",x,No
+Tuna field,47,2500,NA,115,NA,250,NA,20,60,525.6,No,,,Magmatic,,,Anticline,Yes,Sandstones,160,,Carbonates ,280,Yes,,"Hortle et al., 2011; Neslon et al, 2005; http://er-info.dpi.vic.gov.au/petroleum/well/tuna4.htm; Schacht, 2008",x,Yes
+Garvoc-1,50,1362.5,1386.2,75,NA,162,NA,96.7,NA,516.3,No ,,,magmatic?,,,"structural, stratigraphic",Yes,Sandstone,25,,Mudstone,200,no,0,"Higgs et al., 2014, Well logs, cross sections, Watson 2012",,
+Boggy Creek,52,1662,1673,68.3,NA,184,NA,86.1,88.7,636.6,No ,,,magmatic,,,"structural, stratigraphic",yes,Sandstone,83.5,,Mudstone,150,no,0,"Watson 2014, WCR",,
+Gudian ,53,1188,1297,44,65,NA,NA,NA,97.05,656.9,No,,,,,,"structural, stratigraphic",Yes,Sandstone,,,,,,,"Yuquiao et al., 2007, Yu et al, 2014, Dai et al., 2000 & 2005",,
+"Turaco, Albertine Graben",56,2500,NA,NA,NA,NA,NA,80,95,769.4,No,,,magmatic,,,,yes,Sandstone,,,,,Yes,,"Logan et al, 2009, Dou et al, 2004, Karp et al, 2012",,
+DF29-1,60,1832,1842,92,NA,NA,NA,70.35,NA,465.2,No,,,crustal,,,"Diapir, fault",yes,Sandstone,80,,Shale,300,yes,3,"Huang et al 2002, Hao et al 2000, huang et al, 2004",,x
+L22-1,61,1486,1510,78,NA,NA,NA,80.42,NA,423.8,No,,,crustal,,,"Diapir, fault",yes,Sandstone,,,Shale,300,Yes,,"Huang et al 2002, Hao et al 2000, huang et al, 2004, Lei et al., 2011",,x
+Kalangadoo 1,51,2051.3,2136.6,NA,NA,NA,NA,96.25,NA,779.0,No ,,,magamtic,,,,,Basement,,,,,,0,"Watson 2012, Higgs et al. 2014",,
+W961,59,3799.9,3981,136,160,NA,NA,65,88,618.4,No,,,mantle,5.5,,,,Sandstone,90,,Shale,>500,,,"Zhu et al., 2009 ",,x
